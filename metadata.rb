@@ -1,4 +1,4 @@
-name 'node-app'
+name 'nodejs-app'
 maintainer 'guillofar'
 maintainer_email 'guillofar@gmail.com'
 license 'Apache 2.0'
